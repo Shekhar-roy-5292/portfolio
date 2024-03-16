@@ -1,6 +1,7 @@
 import React from "react";
 import MyImage from "../images/home.png";
 import TypedJsControl from "../components/TypedJsControl";
+import Resume from "../Resume/Resume.pdf";
 // import 'boxicons';
 function Home() {
   return (
@@ -33,7 +34,7 @@ function Home() {
               <i className="bx bxl-linkedin"></i>
             </a>
           </div>
-          <a href="/hackerresume.pdf" className="btn">
+          <a href={Resume} className="btn">
             Download CV
           </a>
         </div>
