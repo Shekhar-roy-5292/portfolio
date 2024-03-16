@@ -10,7 +10,7 @@ This project showcases my portfolio website built using React. It utilizes React
 ## Features
 - Dynamic routing with React Router DOM
 - JSX for intuitive component rendering
-- - Type js for text typing and removing effect
+- Type js for text typing and removing effect
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/Shekhar-roy-5292/portfolio-react.git`
